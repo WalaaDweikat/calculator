@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chathura:wght@800&family=Roboto&display=swap');
+.container{
+  position: relative;
+width: 375px;
+height: 812px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin: 0 auto;
+   
+}
+
+.button1
+{
+  width: 64px;
+  height: 66px;
+  left: 29px;
+  top: 202px;
+  background: #8490FF;
+  color: #212638;
+}
+
+
+
+.button2{
+  width: 64px;
+  height: 66px;
+  left: 113px;
+  top: 202px; 
+  background: #8490FF;
+  color: #212638;
+}
+
+
+.button3{
+  width: 64px;
+  height: 66px;
+  left: 197px;
+  top: 202px;
+  color: #212638;
+  background: #8490FF;  
+}
+
+.button4{
+  width: 64px;
+  height: 66px;
+  left: 281px;
+  top: 202px;
+  background: #34509E;
+  color: #FFFFFF;
+  
+  }
+
+  .button5{
+    width: 64px;
+    height: 66px;
+    left: 29px;
+    top: 288px;
+    background: #212638;
+    color: #FFFFFF;
+  }
+   
+.button6{
+  width: 64px;
+  height: 66px;
+  left: 113px;
+  top: 288px;
+  background: #212638;
+  color: #FFFFFF;
+}
+
+.button7{
+   width: 64px;
+   height: 66px;
+   left: 197px;
+   top: 288px;
+   background: #212638;  
+   color: #FFFFFF;
+}
+
+.button8{
+  width: 64px;
+  height: 66px;
+  left: 281px;
+  top: 288px;
+  background: #34509E;
+  color: #FFFFFF;
+}
+.button9{
+  width: 64px;
+  height: 66px;
+  left: 29px;
+  top: 374px;
+  background: #212638;
+  color: #FFFFFF;
+}
+
+.button10{
+  width: 64px;
+  height: 66px;
+  left: 113px;
+  top: 374px;
+  background: #212638;
+  color: #FFFFFF;
+}
+
+.button11{
+  width: 64px;
+  height: 66px;
+  left: 197px;
+  top: 374px;
+  background: #212638;
+  color: #FFFFFF;
+}
+.button12{
+  width: 64px;
+  height: 66px;
+  left: 281px;
+  top: 374px;
+  background: #34509E;
+  color: #FFFFFF;
+}
+
+.button14{
+  width: 64px;
+  height: 66px;
+  left: 113px;
+  top: 460px;
+  background: #212638;
+  color: #FFFFFF;
+}
+
+.button13{
+  width: 64px;
+  height: 66px;
+  left: 29px;
+  top: 460px;
+  background: #212638;
+  color: #FFFFFF;
+}
+
+.button15{
+  position: absolute;
+  width: 64px;
+  height: 66px;
+  left: 197px;
+  top: 460px;
+  background: #212638;
+  color: #FFFFFF;
+}
+
+.button16{
+  width: 64px;
+  height: 66px;
+  left: 281px;
+  top: 460px;
+  background: #34509E;
+  color: #FFFFFF;
+}
+
+.button18{
+width: 64px;
+height: 66px;
+left: 197px;
+top: 546px;
+background: #212638;
+color: #FFFFFF;
+
+}
+
+.button19{
+width: 64px;
+height: 66px;
+left: 281px;
+top: 546px;
+background: #34509E;
+color: #FFFFFF;
+}
+
+.button17{
+width: 150px;
+height: 66px;
+left: 29px;
+top: 546px;
+background: #212638; 
+color: #FFFFFF;
+text-align: left;
+padding-left: 20px;
+}
+
+button{
+  position:absolute;
+  border-radius: 50px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 30px;
+  font-family: Roboto;
+}
+button:hover{
+  border-color: azure;
+}
+button:focus {
+  outline: none; 
+}
+
+#answer{
+ 
+  width:fit-content;
+  max-width: 300px;
+  overflow-x: scroll;
+  font-family: Chathura;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 120px;
+  line-height: 211px;
+  margin-top:30px;
+  color: #212638;
+  margin-right: 50px;
+  text-align:right;
+ 
+  
+
+  
+  
+  }
+
+  
